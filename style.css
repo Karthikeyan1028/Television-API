@@ -1,0 +1,31 @@
+
+.trend{
+    background-color: brown;
+    color:white;
+    text-align: center;
+}
+body{
+    background-color:rgb(247, 141, 247);
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.main{
+    font-size: 32px;
+    color: white;
+    cursor: pointer;
+}
+.card-body{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    background-color: antiquewhite;
+
+}
+#cardDetails{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
